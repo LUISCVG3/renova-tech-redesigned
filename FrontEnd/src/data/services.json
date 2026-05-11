@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "psychology",
+    "title": "IA",
+    "description": "Modelado predictivo y procesamiento de lenguaje natural avanzado."
+  },
+  {
+    "id": 2,
+    "icon": "web",
+    "title": "Web",
+    "description": "Experiencias inmersivas con redimiento optimizado al milisegundo"
+  },
+  {
+    "id": 3,
+    "icon": "cloud",
+    "title": "Cloud",
+    "description": "Infraestructura elástica y resiliente en entornos multicloud"
+  },
+  {
+    "id": 4,
+    "icon": "security",
+    "title": "Ciberseguridad",
+    "description": "Protección proactiva y auditorías de seguridad de grado militar."
+  }
+]
